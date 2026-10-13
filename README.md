@@ -1,14 +1,40 @@
-# 罗素 · Skill
+<h1 align="center">russell.skill</h1>
 
-**中文** | [English](README.en.md)
+<p align="center">罗素 · Bertrand Russell</p>
 
-[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Agent Skills](https://img.shields.io/badge/Agent_Skills-Standard-blue.svg)](https://agentskills.io/) [![Made with Nuwa](https://img.shields.io/badge/Made_with-Nuwa-orange.svg)](https://github.com/alchaincyf/nuwa-skill)
+**中文** · [English](README.en.md)
 
-逻辑分析、知识与社会理想。以可追溯原作和明确边界支持思想分析，默认中性，人物表达单独开启。
+<blockquote>
+<p align="center">“美好的生活，是由爱激励、由知识引导的生活。”<br>— 罗素 · <a href="https://www.gutenberg.org/files/73782/73782-h/73782-h.htm">《我所相信的》</a></p>
+</blockquote>
 
-使用 [nvwa-skill](https://github.com/alchaincyf/nuwa-skill) 构建。
+[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Agent Skills](https://img.shields.io/badge/Agent_Skills-Standard-blue.svg)](https://agentskills.io/) [![Made with nvwa-skill](https://img.shields.io/badge/Made_with-nvwa--skill-orange.svg)](https://github.com/alchaincyf/nuwa-skill)
 
-[使用说明](USAGE.md) · [思想入口与研究材料](SKILL.md)
+**将逻辑分析、描述理论与归纳问题整理为思想分析 Skill，让 AI 拆开句子里隐藏的存在、唯一性和知识前提，使争论从措辞回到可检查的条件。**
+
+---
+
+## 效果示例
+
+以下为说明用法而编写的示例，展示分析思路；不是哲学家原话或实测对话记录。
+
+### 1. “现任法国国王是秃头”错在哪里？
+
+> 先拆成有一位现任法国国王、只有一位，以及那个人是秃头。若不存在满足描述的人，不能把句子的失败解释成有一位神秘国王只是头发很多；否定整句与否定谓词也要分开。
+
+### 2. 过去一百次都成功，下一次就一定成功吗？
+
+> 列出样本、环境稳定性与从过去到未来的推断前提。过去成功可以支持有条件的预期，但不构成演绎保证；指出这一点也不等于所有预测同样没有根据。
+
+## 蒸馏了什么
+
+| 思想方法 | 能帮助分析什么 |
+|---|---|
+| 描述分析 | 分别检查存在、唯一性、谓词与否定范围。 |
+| 信念语境 | 区分现实中的同一对象与当事人知道的同一性。 |
+| 归纳前提 | 指出从已观察情况推向未来所依赖的假设。 |
+
+这些方法来自已定位的原作选段，不代表全集蒸馏。具体依据与适用范围见 [SKILL.md](SKILL.md) 和 [提炼说明](EXTRACTION.md)。
 
 ## 安装
 
@@ -34,21 +60,39 @@ git clone https://github.com/jiushiaaa/russell-skill.git
 
 不支持自动加载时，可把 `SKILL.md` 连同当前问题需要的引用文件交给 agent。README 与使用说明提供中英双语，研究底稿保留原语言。
 
-## 使用
+## 使用方式
 
-例如：“用罗素的思想分析这个问题，区分原作观点与当代推断。”需要表达模拟时明确开启人物表达模式；文游创作或审读只取思想，不接管作品口吻。详见[双语使用说明](USAGE.md)。
+- **中性思想模式（默认）：**“用罗素的思想分析这个问题，区分原作观点与当代应用。”
+- **人物表达模式（可选）：**明确提出“开启人物表达模式”。这是注明性质的模拟，不是作者本人发言。
 
-## 思想方法
+文游创作默认只取思想，文风另行决定。详见 [双语使用说明](USAGE.md)。
 
-- 严格描述分析（R5；第1项）
-- 信念语境（R5；第2项）
-- 归纳前提（R1；第3项）
+## 调研来源
 
-详见 [SKILL.md](SKILL.md) 与 [EXTRACTION.md](EXTRACTION.md)。目录中的候选、局部证据和未读范围均保留，不能把它们理解成全集蒸馏完成。
+〈论指称〉；《哲学问题》归纳与知识相关选段；《我所相信的》作为开篇引文来源。
 
-## 许可
+- [原作来源、版本与实际阅读范围](references/research/source-catalog.md)
+- [方法提炼与证据](EXTRACTION.md)
+- 开篇名言出处：<a href="https://www.gutenberg.org/files/73782/73782-h/73782-h.htm">《我所相信的》</a>，第二章“美好的生活”。中文引文为本仓库译文；非英语原作的英文引文亦为本仓库译文。
 
-项目原创材料采用 [MIT](LICENSE)，引用的原著与译本保留各自权利。详见 [来源说明](ATTRIBUTION.md)。
+## 仓库结构
+
+主要文件：
+
+```text
+├── SKILL.md  # Skill 入口与分析方法
+├── README.md / README.en.md  # 中英文介绍
+├── USAGE.md  # 双语使用说明
+├── EXTRACTION.md  # 方法提炼与证据
+├── references/  # 研究笔记与可选人物表达模式
+└── LICENSE  # MIT 许可
+```
+
+## 构建工具
+
+使用 [nvwa-skill](https://github.com/alchaincyf/nuwa-skill) 构建。
+
+项目原创材料采用 [MIT](LICENSE)，所引原著与译本保留各自权利。详见 [来源说明](ATTRIBUTION.md)。
 
 ## 更多 Skill
 
