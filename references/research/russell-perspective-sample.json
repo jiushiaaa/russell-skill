@@ -1,0 +1,253 @@
+{
+  "source_hashes": [
+    {
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "sha256": "e366ea36bc6014e67bda2841b45919ef31a08c5c26f9352ebfed037bc5f4d882"
+    }
+  ],
+  "pool_size": 174,
+  "sample_count": 20,
+  "sample_seed": 20261013,
+  "records": [
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 261,
+      "sha256_normalized_paragraph": "0c878547f1de83fc0ec055b8593268b219dc5a4ba1242968b1c2a30b6023cc56",
+      "words": 151,
+      "sentences": 5,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 3
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 195,
+      "sha256_normalized_paragraph": "be58c872d6b6469ef745c9775b23eddfadcf3daff97517ad5193f3c2fd0993fd",
+      "words": 160,
+      "sentences": 6,
+      "question_sentences": 0,
+      "first_person_tokens": 8,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 85,
+      "sha256_normalized_paragraph": "d04cab722116e6e6b63fae4f31cc07f20393b9f0cde1856b7552cee62bcbbd5b",
+      "words": 141,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 2
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 246,
+      "sha256_normalized_paragraph": "7b0724a3f7b66b267d2258a0f65fd3a06a38c4a92705fd91197c1da5dc50e5fc",
+      "words": 83,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 133,
+      "sha256_normalized_paragraph": "136b549599f0ba3409b2bdff325d83ded9c0f863d98d56c3de9fd3b1d07bbffc",
+      "words": 137,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 199,
+      "sha256_normalized_paragraph": "e049d779496beede4d57fe01178329e7a7b5d34f18bc8562d19aba8181b599bf",
+      "words": 119,
+      "sentences": 5,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 44,
+      "sha256_normalized_paragraph": "62e8bff7665e64ed18f072b85499d762cc56aaf545c5b162f7b5dcf6cea7c81b",
+      "words": 90,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 177,
+      "sha256_normalized_paragraph": "29a65c6a9d297ff7e135662b152bc4ac053d65342847dee9d628a3348b876095",
+      "words": 148,
+      "sentences": 5,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 264,
+      "sha256_normalized_paragraph": "fe7341bdbc47f353a7223a9ea7e3369558e59578191e4e2f4045206516bbd579",
+      "words": 92,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 263,
+      "sha256_normalized_paragraph": "2bfb98bec5849fae707d4a14c4a9227d43afd95b63b5cf2ee0aca87fa9688e7a",
+      "words": 126,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 256,
+      "sha256_normalized_paragraph": "372b8e4fe9eeedccf90a62c6d72b4c05aee66c0ed551e313278ce2caf74f649d",
+      "words": 113,
+      "sentences": 5,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 4
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 27,
+      "sha256_normalized_paragraph": "51352822c89c8b392a2814c1d7cc6b393bbd67fd1e0f39b3e4b5703f1294fef0",
+      "words": 60,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 100,
+      "sha256_normalized_paragraph": "2c12d92cadde906b65529bbed14a835c8f654add65de703ea54e2e53809f10df",
+      "words": 77,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 251,
+      "sha256_normalized_paragraph": "07b9e217d8cf892bdfbd43fd33b4b0e09c1883da46b73967199ff4f1668d7431",
+      "words": 81,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 5,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 34,
+      "sha256_normalized_paragraph": "34a92e9b7b6c85a9898d80a26f0e6035884a003d21d81972f055834343fa1601",
+      "words": 101,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 16,
+      "sha256_normalized_paragraph": "abd2c1ede819368b9b29f211cd39d44e4f86eba7a98004797dcfa071c1d75e03",
+      "words": 77,
+      "sentences": 4,
+      "question_sentences": 2,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 93,
+      "sha256_normalized_paragraph": "7d2dcba5c84b3cc418e954ac6dda950a1209d53be9f33c8deb71ed7ab86f5e57",
+      "words": 44,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 245,
+      "sha256_normalized_paragraph": "cd5fa77da51ab8648e34dc610550998d158583d1ae8a8cc78aa1546ef025ffec",
+      "words": 92,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 237,
+      "sha256_normalized_paragraph": "eff81f7708d6db28f6d25414b802b19babfb4ffc10a828f4e27909443ad00ae1",
+      "words": 134,
+      "sentences": 7,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Problems of Philosophy, 1912, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "html_p_index_zero_based": 46,
+      "sha256_normalized_paragraph": "573093e839fb41a713feca79de1b7bac10408ea1bf4d54e7173ce4c3e556fbe0",
+      "words": 91,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    }
+  ],
+  "metrics": {
+    "words": 2117,
+    "sentences": 78,
+    "question_sentences": 2,
+    "first_person_tokens": 15,
+    "contrast_tokens": 20,
+    "mean_words_per_sentence": 27.141,
+    "question_sentence_ratio": 0.02564,
+    "first_person_per_1000_words": 7.085,
+    "contrast_per_1000_words": 9.447
+  },
+  "analogy_density": null,
+  "certainty_ratio": null,
+  "limitations": [
+    "Length-restricted sampling (30–180 words), not representative of the full work; Horkheimer uses ten eligible original paragraphs without length filtering.",
+    "Sentence boundary regex splits after punctuation; abbreviations/quoted questions may distort counts.",
+    "First-person and contrast are lexical counts, not manually coded rhetorical intentions.",
+    "Analogy density and certainty ratio not measured.",
+    "Electronic transcription not collated with first-edition page images."
+  ]
+}

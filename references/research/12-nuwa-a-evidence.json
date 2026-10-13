@@ -1,0 +1,209 @@
+{
+  "id": "russell-perspective",
+  "date": "2026-10-13",
+  "run": "nuwa-a-20261013",
+  "role": "independent_primary_research_not_judge",
+  "status": "研究补证；不评分，不授予A级，不等于全集完成",
+  "canonical_changed": false,
+  "prior_materials_read": [
+    "SKILL.md",
+    "EXTRACTION.md",
+    "references/research/03-expression-dna.md",
+    "references/research/source-catalog.md",
+    "references/research/10-deep-primary-language.md",
+    "references/research/11-acquaintance-description.md"
+  ],
+  "name": "伯特兰·罗素",
+  "coverage": [
+    {
+      "work": "On Denoting",
+      "period": "1905",
+      "actual_reading": "继承R5网页4–68、71–120选读",
+      "not_read": "原刊页影、Gray’s Elegy全部争论"
+    },
+    {
+      "work": "The Problems of Philosophy",
+      "period": "1912",
+      "actual_reading": "继承IV末及V全章、VI–VII限定范围；本轮XIII629–644连续段；全书20个30–180词散段逐段查看",
+      "not_read": "散段不等于全书通读；未校原版"
+    },
+    {
+      "work": "The Analysis of Mind / 1955集体声明",
+      "period": "1921 / 1955",
+      "actual_reading": "继承序言及第一讲选段、共同声明；本轮未重新读取",
+      "not_read": "1914–1919转变、1918讲演、政治通信及晚期认识论"
+    }
+  ],
+  "primary_additions": [
+    {
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "locator": "XIII网页629–644连续；另sample p251的错误推理例",
+      "argument": "自明判断也可能错误分析事实；融贯可增加或然意见可信度，但不能凭组织一致变成绝对确定。",
+      "boundary": "补强有限判断与表达，不把认识论例子当描述理论跨域新验证。"
+    }
+  ],
+  "model_audit": [
+    {
+      "name": "描述存在与唯一性",
+      "domain_evidence": [
+        {
+          "domain": "逻辑语义",
+          "url": "https://humanum.arts.cuhk.edu.hk/humftp/E-text/Russell/denoting.htm",
+          "locator": "R5既读39–48、97–119",
+          "evidence": "存在、唯一性及谓词区分"
+        },
+        {
+          "domain": "第二领域",
+          "url": "https://humanum.arts.cuhk.edu.hk/humftp/E-text/Russell/denoting.htm",
+          "locator": "未获",
+          "evidence": "负责人、唯一原因是研究者自拟迁移"
+        }
+      ],
+      "cross_domain_assessment": "仍为单领域逻辑程序；人物/国王不同例子不是两个领域。",
+      "generative_power": {
+        "assessment": "可生成描述失败类型；未独立新盲测。",
+        "independent_test_completed": false
+      },
+      "distinctiveness": "量化结构与否定作用域具体，不能改写成泛泛澄清用词。",
+      "status": "保留有限程序；未完成三重独立验证"
+    },
+    {
+      "name": "信念语境替换限制",
+      "domain_evidence": [
+        {
+          "domain": "认知报告",
+          "url": "https://humanum.arts.cuhk.edu.hk/humftp/E-text/Russell/denoting.htm",
+          "locator": "R5既读62–65、102–108",
+          "evidence": "同指替换与所知差异"
+        },
+        {
+          "domain": "第二领域",
+          "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+          "locator": "本轮XIII非替换论证",
+          "evidence": "新认识论讨论不能冒作本程序第二域"
+        }
+      ],
+      "cross_domain_assessment": "未补第二域，保留单域有区分力启发式。",
+      "generative_power": {
+        "assessment": "可区分事实同一与当事人所知；未独立测试。",
+        "independent_test_completed": false
+      },
+      "distinctiveness": "描述的主要/次要出现与否定范围；与一般认识谦逊不同。",
+      "status": "保留有限程序；未完成三重独立验证"
+    },
+    {
+      "name": "归纳稳定性前提",
+      "domain_evidence": [
+        {
+          "domain": "自然预测",
+          "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+          "locator": "VI既读268–326",
+          "evidence": "过去观察不能演绎保证未来"
+        },
+        {
+          "domain": "未观察的过去",
+          "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+          "locator": "VI既读302–326",
+          "evidence": "过去事实也需归纳"
+        }
+      ],
+      "cross_domain_assessment": "时间方向的两个应用不是清晰不同领域；不凑成跨域通过。",
+      "generative_power": {
+        "assessment": "可揭示概率的材料条件；尚未独立测试。",
+        "independent_test_completed": false
+      },
+      "distinctiveness": "区分新一次、普遍规律与原则证成，而非一切都不确定。",
+      "status": "保留有限程序；未完成三重独立验证"
+    },
+    {
+      "name": "共同毁灭风险（历史案例，不计程序）",
+      "domain_evidence": [
+        {
+          "domain": "核战争",
+          "url": "https://pugwash.org/1955/07/09/statement-manifesto/",
+          "locator": "原目录R3集体声明网页119–131",
+          "evidence": "共同署名不分配所有句子给个人"
+        }
+      ],
+      "cross_domain_assessment": "没有个人两域复现；保持历史案例。",
+      "generative_power": {
+        "assessment": "研究者可迁移，但无从证明本人必如此回答。",
+        "independent_test_completed": false
+      },
+      "distinctiveness": "不能以共同风险抹平责任不对称。",
+      "status": "保留历史案例，不纳入三模型计数"
+    }
+  ],
+  "tensions": [
+    {
+      "pole_a": "经验知识需从已观察推广到未观察",
+      "pole_b": "这种推广的原则不能用成功史无循环证明",
+      "primary_support": [
+        {
+          "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+          "locator": "VI既读302–326"
+        }
+      ],
+      "kind": "共同要求之间的张力，非简单自相矛盾"
+    },
+    {
+      "pole_a": "理解命题须有亲知的构成基础",
+      "pole_b": "描述知识可超出私人直接经验",
+      "primary_support": [
+        {
+          "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+          "locator": "V全章既读211–274；11号研究记录"
+        }
+      ],
+      "kind": "共同要求之间的张力，非简单自相矛盾"
+    }
+  ],
+  "remaining_gaps": [
+    "三个执行程序都未获充分两域复现；不应因表达样本完成而升级心智模型。",
+    "表达20段偏短且仅1912一书，不代表政治文体或数学技术写作。",
+    "首版/原刊校勘及长期政治演变未完成。"
+  ],
+  "expression": {
+    "sample_method": "见可复跑脚本nuwa_a_research_2_sampler.py：固定种子20261013，HTML p序号从0起，规范化空白后取SHA256。通常仅30–180词段，故不是全文均匀抽样；所有最终选中段已在工具输出逐段实际查看。霍克海默为10个合格段的全取；奥斯汀未建立可靠分段。",
+    "sample_count": 20,
+    "metrics": {
+      "words": 2117,
+      "sentences": 78,
+      "question_sentences": 2,
+      "first_person_tokens": 15,
+      "contrast_tokens": 20,
+      "mean_words_per_sentence": 27.141,
+      "question_sentence_ratio": 0.02564,
+      "first_person_per_1000_words": 7.085,
+      "contrast_per_1000_words": 9.447
+    },
+    "source_language": "英语原文",
+    "style_rules": [
+      "将一个看似简单的断言拆成少数可单独判断的命题。",
+      "用普通事物构造精确反例；每次反例只改变一个逻辑条件。",
+      "清楚说明“可以增加可信度”与“能够证明”的距离，语气不必全面犹疑。"
+    ],
+    "anti_patterns": [
+      "不滥加符号，不以冷峻短句代替论证。",
+      "不把1905、1912、1921观点拼为永不修订的理论。",
+      "不把集体反核宣言当个人私语，不套用当前政治立场。"
+    ],
+    "limitations": [
+      "Length-restricted sampling (30–180 words), not representative of the full work; Horkheimer uses ten eligible original paragraphs without length filtering.",
+      "Sentence boundary regex splits after punctuation; abbreviations/quoted questions may distort counts.",
+      "First-person and contrast are lexical counts, not manually coded rhetorical intentions.",
+      "Analogy density and certainty ratio not measured.",
+      "Electronic transcription not collated with first-edition page images.",
+      "中文输出只迁移高层修辞功能，不把英法词长/词频硬套到中文。",
+      "统计中的第一人称可来自作者构造的示范/虚拟对话，不证明真实自述；所概述的他人观点也不是作者赞同。",
+      "只用于用户明确选用的独立表达附录；默认中性思想，文游禁文风。"
+    ],
+    "sample_records_file": "russell-perspective-sample.json",
+    "analogy_density": null,
+    "certainty_ratio": null
+  },
+  "access_log": [
+    "web.open成功；requests只读获取用于段落计数；仅保留SHA256、指标和原创笔记，不保存原作全文。"
+  ],
+  "prior_evidence_policy": "标为继承的范围来自已读本地来源目录及10/11记录，不宣称本轮重新阅读所有原作；网页行号为工具当时定位，复核须结合章节/段落指纹。"
+}

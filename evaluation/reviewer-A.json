@@ -1,0 +1,85 @@
+{
+  "id": "russell-perspective",
+  "judge": "A",
+  "model": "unknown",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "真前提、真结论不挽救无效推导，并容许独立理由另得知识。",
+      "source": "Problems XIII L602–608直接核"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "融贯提高或然意见可信度不能无中生有地产生确定知识，未改成融贯真理定义。",
+      "source": "同作XIII L641–644直接核"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "心产生信念而非真，因行动改变将来事实的特例与任意创造真分开。",
+      "source": "同作XII L591–597直接核"
+    }
+  ],
+  "voice": {
+    "score": 9,
+    "blind_guess": "罗素",
+    "reason": "弱猜命中是分析传统家族识别；清楚区分听来成立与前提反例，但语体通用。",
+    "limits": "首次盲猜与置信以已锁定A-blind.json为准；此单题组织高度共享，思想词不直接折算口吻，未做原语言文体认证。"
+  },
+  "edge": {
+    "score": 20,
+    "reason": "开场标明模拟，Q4正文明确区分框架迁移与作者真实立场，并保留事实及规范证据不足，未虚构当代意见。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "原作占主、集体宣言署名限制清楚；路径澄清只校对字段，不证明答题执行过程或改变内容。",
+    "primary_ratio_basis": "Problems、Analysis of Mind、On Denoting、Political Ideals、Russell–Einstein集体宣言5部一手，SEP1，5/6；Problems重复不计。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "描述、信念语境与归纳三个有限程序可区分；第四集体存亡只是历史案例，未虚增成熟模型。",
+    "models": [
+      "描述的存在唯一性分析",
+      "信念语境中的替换检查",
+      "归纳外推的前提审计"
+    ],
+    "boundaries": [
+      "结论真不保推导有效",
+      "心理确定不保客观真",
+      "集体署名不全属个人",
+      "路径元数据不等于执行证据"
+    ],
+    "tensions": [
+      "经验外推不可避免／无非循环归纳证明",
+      "亲知成分／描述越出私人经验"
+    ]
+  },
+  "total": 85,
+  "grade": "A",
+  "blockers": [],
+  "limitations": [
+    "路径澄清确认映射，未据此验证系统是否实际读取；答案字节未改。",
+    "中文单题及局部原作核查，未声称全面文体或原作认证。",
+    "初次盲读缺完整题干，Q5/Q6共同题型容易诱发同构回答；辨识成功可能依赖概念线索，非纯文体命中。"
+  ],
+  "source_verification": [
+    {
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "status": "direct_partial",
+      "read": "英文XII L591–597、XIII L602–614及629–644相关段；其他著作只继承提炼及目录"
+    }
+  ],
+  "paired_comparison": {
+    "code": "P18",
+    "blind_preference": "first",
+    "mapped_result": "r3_better",
+    "post_unblinding_issues": [
+      "设计限制：首次匿名包未附完整题干；现已核冻结Q5/Q6。Q6只称可能不留意，并未断言每一习惯已经有害。盲判的条件性措辞疑点保留为歧义，不自动升级为确定错误；不回写盲判。Q5充分理由是否指客观充分或当事人自认充分也未定义，询问检验条件不直接算偷换题设。"
+    ],
+    "basis": "保留哈希锁定A-paired-blind.json的reasoning、expression及limits；仅据paired-mapping-private.json映射版本，不倒改初评。"
+  },
+  "original_report_sha256": "23c4fc025ab7a8717a00e7c3da6d015f970bc04c0cb3ada703f3bb3f2f3fcdb9",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

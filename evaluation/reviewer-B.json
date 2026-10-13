@@ -1,0 +1,97 @@
+{
+  "id": "russell-perspective",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "真前提、真结论不修补错误推导；另有根据须另查。",
+      "source": "1912《哲学问题》XII–XIII；核查状态见source_audit"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "融贯能提高或然性，不能无中生有地产生确定性。",
+      "source": "1912《哲学问题》XII–XIII；核查状态见source_audit"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "信念存在和真假不同，保留信念可因果参与未来事实的特殊情形。",
+      "source": "1912《哲学问题》XII–XIII；核查状态见source_audit"
+    }
+  ],
+  "source_audit": [
+    {
+      "url": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+      "status": "direct_read",
+      "scope": "HTTP直接读XII融贯批评、末尾心灵与真假，XIII开头错误推理及章末融贯和或然性；非全书。"
+    }
+  ],
+  "limitations": [
+    "原答案read_paths转义问题按独立澄清文件辨明；该文件只修路径，不是独立执行审计。",
+    "中文短样本及少数题，不能代表全书、全时期或人类专家认证。",
+    "原作仅核查source_audit所列位置；其余研究阅读记录为继承材料，不声称本评审通读。"
+  ],
+  "judge": "B",
+  "model": "unknown",
+  "voice": {
+    "score": 8,
+    "reason": "先分概念、再举反例的明晰表达成立，但短文研究者免责声明占比显眼，盲读休谟领先；只有分析传统声调而个人辨识弱。",
+    "blind_guess": {
+      "code": "N14",
+      "guess": "休谟（低置信猜测）",
+      "confidence": 0.22,
+      "alternatives": [
+        "罗素",
+        "奥斯汀"
+      ],
+      "formal_features": "把听来充分与确实成立分开，用单一反例实施分析，末尾交代迁移与诊断限制。",
+      "content_clues": "证据未变、前提推翻、理由约束结论，属于广义经验分析。",
+      "limits": "缺乏可特指休谟的情感、因果或习惯论线索；基本无法从声调认人。"
+    },
+    "limits": "缺乏可特指休谟的情感、因果或习惯论线索；基本无法从声调认人。 正式只用Q5，Q6不加分。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "来源列版本、已读局部及未读范围；本轮对已知题核查仅限source_audit，不把继承研究记录当本轮通读。",
+    "primary_ratio_basis": "合并R1/R6同书后四部个人一手+一部共同声明，对SEP约5/6；不把共同声明每句话独归罗素。"
+  },
+  "structure": {
+    "score": 13,
+    "reason": "有执行动作、反例和停止条件；仍是局部解释框架，缺完整跨域验证，不按标题数量判成熟。",
+    "models": [
+      "严格描述存在/唯一性/谓词及四模型检验",
+      "信念语境范围和同指替换",
+      "归纳稳定性前提"
+    ],
+    "boundaries": [
+      "会话预设不由形式程序穷尽",
+      "同指不等于当事人知道",
+      "非必然不等于无理由"
+    ],
+    "tensions": [
+      "经验推广与归纳循环",
+      "亲知基础与超私人经验的描述知识"
+    ]
+  },
+  "edge": {
+    "score": 20,
+    "reason": "统一开场说明人物模拟；Q4正文明确为当代迁移或推断，保留未知和所缺依据，没有伪装成作者历史表态。"
+  },
+  "paired_comparison": {
+    "code": "P18",
+    "blind_preference": "first",
+    "mapped_preference": "r3_better",
+    "reasoning": "first既限定过去成功只形成期待，又说明一次失误未必推翻全部经验，保留证据权重的细节。second断桥例子正确，却把需要判断的复杂关系换成确定不可行的极端。",
+    "expression": "first期待、差异、一次失误的推进层次清楚；second更形象易读，但双重否定开头与断桥例子没有增加概念精度。",
+    "post_unblinding_issues": [
+      "已核Q6完整题干：习惯遮蔽注意只属可能；没有仅因原盲读未见题干而把条件疑点定为错误，保留初判。"
+    ],
+    "limits": "易读性可能随受众而变，首选只指本题论证和表达综合。 R2为Q5、R3为Q6，不是单变量实验。"
+  },
+  "blockers": [],
+  "total": 85,
+  "grade": "A",
+  "original_report_sha256": "e7036b943886ccde856883ea604cdea733a26ebfcb04103bda764f9c5d061507",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}
